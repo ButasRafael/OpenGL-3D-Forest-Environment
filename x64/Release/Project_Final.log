@@ -1,0 +1,19 @@
+﻿  Model3D.cpp
+C:\Users\butas\OneDrive\Documents\AN3\GP\Project_Final\Project_Final\Model3D.cpp(335,59): warning C4267: '+=': conversion from 'size_t' to 'GLuint', possible loss of data
+C:\Users\butas\OneDrive\Documents\AN3\GP\Project_Final\Project_Final\Model3D.cpp(355,55): warning C4267: '+=': conversion from 'size_t' to 'GLuint', possible loss of data
+  Generating code
+  0 of 4947 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+LINK : warning LNK4286: symbol '__glewGenRenderbuffers' defined in 'libglew32.lib(glew.obj)' is imported by 'WaterFrameBuffers.obj'
+LINK : warning LNK4286: symbol '__glewBindFramebuffer' defined in 'libglew32.lib(glew.obj)' is imported by 'WaterFrameBuffers.obj'
+LINK : warning LNK4286: symbol '__glewBindRenderbuffer' defined in 'libglew32.lib(glew.obj)' is imported by 'WaterFrameBuffers.obj'
+LINK : warning LNK4286: symbol '__glewGenFramebuffers' defined in 'libglew32.lib(glew.obj)' is imported by 'WaterFrameBuffers.obj'
+LINK : warning LNK4286: symbol '__glewFramebufferRenderbuffer' defined in 'libglew32.lib(glew.obj)' is imported by 'WaterFrameBuffers.obj'
+LINK : warning LNK4286: symbol '__glewDeleteFramebuffers' defined in 'libglew32.lib(glew.obj)' is imported by 'WaterFrameBuffers.obj'
+LINK : warning LNK4286: symbol '__glewDeleteRenderbuffers' defined in 'libglew32.lib(glew.obj)' is imported by 'WaterFrameBuffers.obj'
+LINK : warning LNK4286: symbol '__glewCheckFramebufferStatus' defined in 'libglew32.lib(glew.obj)' is imported by 'WaterFrameBuffers.obj'
+LINK : warning LNK4286: symbol '__glewRenderbufferStorage' defined in 'libglew32.lib(glew.obj)' is imported by 'WaterFrameBuffers.obj'
+LINK : warning LNK4286: symbol '__glewFramebufferTexture2D' defined in 'libglew32.lib(glew.obj)' is imported by 'WaterFrameBuffers.obj'
+  Project_Final.vcxproj -> C:\Users\butas\OneDrive\Documents\AN3\GP\Project_Final\x64\Release\Project_Final.exe

@@ -1,0 +1,548 @@
+# Blender 4.3.0 MTL File: 'Evergreen_Forest_2_hut.blend'
+# www.blender.org
+
+newmtl Axe
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Axe_Diffuse.png
+map_bump textures/Axe_Normal.png
+map_Ks textures/Axe_Specular.png
+
+newmtl Bark_Larix-kaemferi_bqm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Bark_Larix-keampfari_Diffuse.jpg
+map_d textures/Bark_Larix-keampfari_Dissolve.jpg
+map_bump textures/Bark_Larix-keampfari_Normal.jpg
+map_Ks textures/Bark_Larix_Specular.png
+
+newmtl Bark_Picea-rubens_bqm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Bark_Picea-rubens_Diffuse.jpg
+map_d textures/Bark_Picea-rubens_Dissolve.jpg
+map_bump textures/Bark_Picea-rubens_Normal.jpg
+map_Ks textures/Tree_Larix_Specular.png
+
+newmtl Bark_Pinus-ponderosa_bqm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Bark_Pinus-ponderosa_Diffuse.png
+map_d textures/Bark_Pinus-ponderosa_Dissolve.png
+map_bump textures/Bark_Pinus-ponderosa_Normal.jpg
+map_Ks textures/Tree_Pinus_D_Specular.png
+
+newmtl Bench
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd textures/Bench_Diffuse.png
+map_Ks textures/Bench_Specular.png
+map_bump textures/Bench_Normal.png
+
+newmtl Campfire
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd textures/Campfire_Diffuse.jpg
+map_bump textures/Campfire_Normal.jpg
+map_Ks textures/Campfire_Specular.jpg
+
+newmtl Car
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Car_Diffuse.png
+map_bump textures/Car_Normal.png
+map_Ks textures/Car_Specular.png
+
+newmtl Fern_bqm
+Ns 200.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.101102 0.417515 0.012321
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd textures/Fern_Diffuse.png
+map_d textures/Fern_Dissolve.png
+map_bump textures/Fern_Normal.jpg
+map_Ks textures/Leaf_Fern_B_Specular.png
+
+newmtl Stem_bqm
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.402095 1.000000 0.167472
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd textures/Fern_Diffuse.png
+map_bump textures/Fern_Normal.jpg
+map_Ks textures/Plant_Fern_B_Specular.png
+
+newmtl Forest-debris_bqm
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Misc_Forest-debris_Diffuse.jpg
+map_bump textures/Misc_Forest-debris_Normal.jpg
+map_Ks textures/Forest_Debris_2_Specular.png
+
+newmtl Forest-debris_bqm.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Misc_Forest-debris_Diffuse.jpg
+map_bump textures/Misc_Forest-debris_Normal.jpg
+map_Ks textures/Forest_Debris_Specular.png
+
+newmtl Forest-debris_bqm.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Misc_Forest-debris_Diffuse.jpg
+map_bump textures/Misc_Forest-debris_Normal.jpg
+map_Ks textures/Forest_Debris_3_Specular.png
+
+newmtl Forest-debris_bqm.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Misc_Forest-debris_Diffuse.jpg
+map_bump textures/Misc_Forest-debris_Normal.jpg
+map_Ks textures/Forest_Debris_4_Specular.png
+
+newmtl Forest-debris_bqm.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Misc_Forest-debris_Diffuse.jpg
+map_bump textures/Misc_Forest-debris_Normal.jpg
+map_Ks textures/Forest_Debris_5_Specular.png
+
+newmtl Forest_ground
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Forest_Ground_Diffuse.png
+map_bump textures/Forest_Ground_Normal.png
+map_Ks textures/Forest_Ground_Specular.png
+
+newmtl Grass_Striped_bqm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Grass_Diffuse.jpg
+map_bump textures/Grass_Normal.jpg
+map_Ks textures/Grass_Cut_Specular.png
+
+newmtl Grass_bqm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Grass_Diffuse.jpg
+map_bump textures/Grass_Normal.jpg
+map_Ks textures/Grass_dry_A_Specular.png
+
+newmtl Hut
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Hut_Diffuse.png
+map_bump textures/Hut_Normal.png
+map_Ks textures/Hut_Specular.png
+
+newmtl Fern_Aspidistra_bqm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Leaf_Aspidistra_Diffuse.png
+map_d textures/Leaf_Aspidistra_Dissolve.png
+map_bump textures/Leaf_Aspidistra_Normal.jpg
+map_Ks textures/Leaf_Aspidistra_Specular.png
+
+newmtl Leaf_Autumn_bqm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Atlas_Leaf_Autumn_Diffuse.png
+map_d textures/Atlas_Leaf_Autumn_Dissolve.png
+map_bump textures/Atlas_Leaf_Autumn_Normal.jpg
+map_Ks textures/Leaf_Autumn_Specular.png
+
+newmtl Leaf_Larix-kaemferi_bqm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Leaf_Larix-keampfari_Diffuse.png
+map_d textures/Leaf_Larix-keampfari_Dissolve.png
+map_bump textures/Leaf_Larix-keampfari_Normal.jpg
+map_Ks textures/Tree_Larix_Specular.png
+
+newmtl Leaf_Picea-rubens_bqm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Leaf_Picea-rubens_Diffuse.png
+map_d textures/Leaf_Picea-rubens_Dissolve.png
+map_bump textures/Leaf_Picea-rubens_Normal.jpg
+map_Ks textures/Tree_Picea_Specular.png
+
+newmtl Leaf_Pinus-ponderosa_bqm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Leaf_Pinus-ponderosa_Diffuse.png
+map_d textures/Leaf_Pinus-ponderosa_Dissolve.png
+map_bump textures/Leaf_Pinus-ponderosa_Normal.jpg
+map_Ks textures/Tree_Pinus_D_Specular.png
+
+newmtl Fern_Strelitzia-nicolai_bqm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Leaf_Strelitzia-nicolai_Diffuse.png
+map_d textures/Leaf_Strelitzia-nicolai_Dissolve.png
+map_bump textures/Leaf_Strelitzia-nicolai_Normal.jpg
+map_Ks textures/Leaf_Strelitzia_Specular.png
+
+newmtl Logs
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Wood_Diffuse.jpg
+map_bump textures/Wood_Normal.jpg
+map_Ks textures/Wood_Specular.png
+
+newmtl Logs2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Wood2_Diffuse.jpg
+map_bump textures/Wood2_Normal.jpg
+map_Ks textures/Wood2_Specular.png
+
+newmtl Rock_Granite_Photoscan_B_bqm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Rock_Granite-Photoscan_B_Diffuse.png
+map_bump textures/Rock_Granite-Photoscan_B_Normal.jpg
+map_Ks textures/Rock_B_Specular.png
+
+newmtl Rock_Granite_Photoscan_C_bqm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Rock_Granite-Photoscan_C_Diffuse.png
+map_bump textures/Rock_Granite-Photoscan_C_Normal.jpg
+map_Ks textures/Rock_C_Specular.png
+
+newmtl Rock_Granite_Photoscan_D_bqm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Rock_Granite-Photoscan_D_Diffuse.png
+map_bump textures/Rock_Granite-Photoscan_D_Normal.jpg
+map_Ks textures/Rock_D_Specular.png
+
+newmtl Rock_Granite_Photoscan_E_bqm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Rock_Granite-Photoscan_E_Diffuse.png
+map_bump textures/Rock_Granite-Photoscan_E_Normal.jpg
+map_Ks textures/Rock_E_Specular.png
+
+newmtl Rock_Granite_Photoscan_F_bqm
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Rock_Granite-Photoscan_F_Diffuse.png
+map_bump textures/Rock_Granite-Photoscan_F_Normal.jpg
+map_Ks textures/Rock_F_Specular.png
+
+newmtl Stem_Aspidastra_bqm
+Ns 640.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.122221 0.147314 0.043633
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Fern_Diffuse.png
+map_bump textures/Fern_Normal.jpg
+map_Ks textures/Plant_Strelitzia_Specular.png
+
+newmtl Stem_Strelitzia-nicolai_bqm
+Ns 32.400002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Stem_Diffuse.jpg
+map_d textures/Stem_Dissolve.jpg
+map_bump textures/Stem_Normal.jpg
+map_Ks textures/Plant_Strelitzia_Specular.png
+
+newmtl Tent
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Tent_Diffuse.png
+map_bump textures/Tent_Normal.png
+map_Ks textures/Tent_Specular.png
+
+newmtl Z1
+Ns 499.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Bag_Diffuse.png
+map_Ks textures/Bag_Specular.png
+map_bump textures/Bag_Normal.png
+
+newmtl Z2
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Rod_Diffuse.png
+map_bump textures/Rod_Normal.png
+map_Ks textures/Rod_Specular.png
+
+newmtl Z3
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Cup_Diffuse.png
+map_bump textures/Cup_Normal.png
+map_Ks textures/Cup_Specular.png
+
+newmtl Z4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Bowl_Diffuse.png
+map_bump textures/Bowl_Normal.png
+map_Ks textures/Bowl_Specular.png
+
+newmtl Z5
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/Book_Diffuse.jpg
+map_bump textures/Book_Normal.jpg
+map_Ks textures/Book_Specular.jpg
+
+newmtl Z7
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Carp_Diffuse.png
+map_bump textures/Carp_Normal.png
+map_Ks textures/Carp_Specular.png
+
+newmtl Z8
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Carp_Diffuse.png
+map_bump textures/Carp_Normal.png
+map_Ks textures/Carp_Specular.png
+
+newmtl Z9
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/Carp_Diffuse.png
+map_bump textures/Carp_Normal.png
+map_Ks textures/Carp_Specular.png
+
+
+newmtl Z6
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Canister_Diffuse.png
+map_bump textures/Canister_Normal.png
+map_Ks textures/Canister_Specular.png
+
+
+newmtl hay_bale_texture
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/Hay_Diffuse.png
+map_d textures/Hay_Dissolve.png
+map_bump textures/Hay_Normal.png
+map_Ks textures/Hay_Specular.png
+
+newmtl hay_bale_texture.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/Hay_Diffuse.png
+map_d textures/Hay_Dissolve.png
+map_bump textures/Hay_Normal.png
+map_Ks textures/Hay_Specular.png
